@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinallyDoneIt</string>
+    <string name="made_by_cryptic">Made by $Cryptic$</string>
+    <string name="linux_mascot">linux mascot</string>
+    <string name="textview">TextView</string>
+    <string name="first_mobile_android_app_i_ever_made">First Mobile Android App I ever Made</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="s">Made By: $Cryptic$</string>
+    <string name="sample_textview">Sample TextView</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="rojo_s_ltd_all_rights_are_reserved">Rojo\'s Ltd | All Rights Are Reserved</string>
+</resources>
